@@ -2,6 +2,8 @@
 
 Machine Learning Internship Project – Future Interns
 
+🚀 Live App:https://futureml01-6ktpjvwvjhrrfmafpfjdmo.streamlit.app/
+
 ## 📌 Project Overview
 This project builds a machine learning model to forecast future sales using historical business data.
 
